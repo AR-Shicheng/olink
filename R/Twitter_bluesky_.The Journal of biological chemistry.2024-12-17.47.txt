@@ -1,0 +1,24 @@
+The study integrates multi-tissue eQTL and pQTL data to identify potential causal genes and drug targets for Parkinson's disease. PMID:37865667, NPJ Parkinsons Dis, 2023, https://doi.org/10.1038/s41531-023-00591-0
+
+Astrocyte BMAL1-BAG3 axis deletion reduces tau and alpha-synuclein aggregation, protecting against neurodegenerative pathology. PMID:37315555, Neuron, 2023, https://doi.org/10.1016/j.neuron.2023.05.006
+
+BAG3 boosts autophagy, clearing α-synuclein, and suppresses NLRP3 inflammasome in microglia, reducing neuroinflammation in Parkinson's disease. PMID:36544667, Ann Transl Med, 2022, https://doi.org/10.21037/atm-22-5159
+
+HRI kinase triggers autophagy to clear cytosolic protein aggregates, linking it to proteotoxicity sensing and prevention in cells. PMID:33168630, J Biol Chem, 2021, https://doi.org/10.1074/jbc.RA120.014415
+
+The paper reviews small heat shock proteins' role in neurodegenerative diseases, highlighting mutations in HspB1/HspB8 affecting protein stability and function in disorders like CMT. PMID:31760916, Biochemistry (Mosc), 2019, https://doi.org/10.1134/S000629791911004X
+
+This study identifies genetic loci influencing Parkinson’s disease onset age, highlighting heritability and α-synuclein mechanisms in a GWAS of 28,568 cases. PMID:30957308, Mov Disord, 2020, https://doi.org/10.1002/mds.27659
+
+This study links CRYAB suppression of astrocytic autophagy to the formation of α-synuclein inclusions, aiding understanding of astroglial protein aggregation in PD. PMID:30675347, Transl Neurodegener, 2022, https://doi.org/10.1186/s40035-018-0143-7
+
+Trehalose induces autophagy in neuron degeneration models by activating TFEB via lysosomal enlargement, offering potential therapeutic benefits for neurodegenerative diseases. PMID:30335591, Autophagy, 2020, https://doi.org/10.1080/15548627.2018.1535292
+
+The paper shows BAG3 enhances SNCA clearance via selective macroautophagy, implicating a potential mechanism in mitigating Parkinson's disease pathology. PMID:28941726, Neurobiol Aging, 2018, https://doi.org/10.1016/j.neurobiolaging.2017.08.023
+
+BAG3 P209L in cardiomyocytes causes mitochondrial fragmentation, BAG3 haploinsufficiency, and p38 signaling activation, affecting muscle and heart health. PMID:27321750, Am J Pathol, 2017, https://doi.org/10.1016/j.ajpath.2016.03.017
+
+The HSPB8-BAG3 chaperone complex is upregulated in astrocytes in response to protein aggregation in neurodegenerative diseases, potentially aiding in protein clearance. PMID:21696420, Neuropathol Appl Neurobiol, 2012, https://doi.org/10.1111/j.1365-2990.2011.01198.x
+
+The paper shows BAG3 promotes ubiquitinated protein buildup in glioblastoma via Hsp70, crucial for protein quality control in diseases like cancer. PMID:21233200, J Biol Chem, 2011, https://doi.org/10.1074/jbc.M110.175836
+
